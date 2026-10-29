@@ -1,2 +1,2 @@
 mensaje = "Hola, Mundo!"
-print(mensaje)
+print(mensaje + "¡Bienvenido al curso de VS Code!")
